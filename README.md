@@ -31,8 +31,7 @@ Customer churn is one of the most critical challenges faced by subscription-base
 
 Here is the executive layout of the final interactive system generated in the project:
 
-![Telco Churn and Retention Intelligence Dashboard](<img width="1600" height="1400" alt="newplot (8)" src="https://github.com/user-attachments/assets/4ffaef98-5f7c-48a5-9436-452b6905adf1" />
-)
+<img width="1600" height="1400" alt="Dashboard" src="https://github.com/user-attachments/assets/d9503a1f-ae81-462a-af15-b161c5b31fc3" />
 
 ---
 
